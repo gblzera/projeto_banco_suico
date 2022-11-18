@@ -61,3 +61,7 @@ dkms.conf
 /.ccls-cache
 .replit
 replit.nix
+
+# Banco pelado generated
+bancopelado
+objects
